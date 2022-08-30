@@ -1,13 +1,9 @@
-package labs_examples.objects_classes_methods.labs.oop.C_blackjack;
+package labs_examples.objects_classes_methods.labs.oop.C_blackjack.labs_examples.objects_classes_methods.labs.oop.C_blackjack;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class BlackjackController {
-
-    // extra features added (excerise_04);
-    // - Ace can be one (1) or eleven (11) - DONE
-    // - call "blackjack" when dealt Ace + 10-value cards on the first two cards - DONE
 
     public static void main(String[] args) {
         playBlackJack();

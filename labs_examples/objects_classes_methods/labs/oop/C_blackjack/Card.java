@@ -1,4 +1,4 @@
-package labs_examples.objects_classes_methods.labs.oop.C_blackjack;
+package labs_examples.objects_classes_methods.labs.oop.C_blackjack.labs_examples.objects_classes_methods.labs.oop.C_blackjack;
 
 public class Card { // holds card data
     public char suit;
